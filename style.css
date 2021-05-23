@@ -38,6 +38,7 @@ body {
     }
     #grid ul {
         border-right: none;
+        text-align: center;
     }
     h1 {
         border-bottom: none;
