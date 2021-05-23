@@ -23,6 +23,9 @@ h1 {
 body {
     margin: 0;
 }
+#grid ul li {
+    margin-bottom: 20px;
+}
 #grid ul {
     border-right: 1px solid grey;
     margin: 0;
