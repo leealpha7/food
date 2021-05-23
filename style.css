@@ -56,16 +56,17 @@ body {
     margin-bottom: 10;
     width: 70%;
 }
-.button {
-    border-radius: 15px;
+.block {
     margin-top: 20px;
-    background-color: #e7e7e7; color: black;
-    border: 5px solid rgb(250, 10, 10);
-    color: rgb(8, 8, 8);
-    padding: 15px 32px;
-    display: inline-block;
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #04AA6D;
+    padding: 14px 28px;
     font-size: 16px;
-}
+    cursor: pointer;
+    text-align: center;
+  }
 #disqus_thread {
     margin-top: 80px;
 }
