@@ -24,6 +24,11 @@ h1 {
 body {
     margin: 0;
 }
+#grid ul li {
+    margin-bottom: 30px;
+}
+
+
 #grid ul {
     border-right: 1px solid grey;
     margin: 0;
@@ -52,7 +57,7 @@ body {
     margin-right: auto;
     margin-top: 30px;
     margin-bottom: 100px;
-    width: 60%;
+    width: 70%;
 }
 .button {
     margin-top: 20px;
